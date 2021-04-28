@@ -2,7 +2,7 @@
 
 HTML ca veut dire quoi?
 "HyperText Makup Language", en francais "Langage hypertext de balisage".
-C'est du code utilisé pour structurer une page web.
+C'est du code utilisé pour **structurer une page web.
 Nous pourrons trouvez dans cette page des paragraphes, des titres, des listes, des images, des vidéos, ...
 
 
