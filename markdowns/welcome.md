@@ -3,7 +3,12 @@
 HTML ca veut dire quoi?
 "HyperText Makup Language", en francais "Langage hypertext de balisage".
 C'est du code utilisé pour **structurer** une page web.</br>
-Nous pourrons trouvez dans cette page des paragraphes, des titres, des listes, des images, des vidéos, ...
+Nous pourrons trouver dans cette page des paragraphes, des titres, des listes, des images, des vidéos, ...</br>
+Le HTML n'est pas un langage de programation (comme javascript), c'est un langage de description. Cette description se fait avec des '''balises'''.
+
+
+# 1. Les différentes balises.
+
 
 
 Premiere question
