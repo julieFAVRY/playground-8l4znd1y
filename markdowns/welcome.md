@@ -1,6 +1,8 @@
 # Le language HTML
 
-This Basic template lets you get started quickly with a simple working example. If it is your first contribution then you should have a look at the [Getting Started](https://tech.io/doc/getting-started-create-playground) document.
+HTML ca veut dire quoi?
+    "HyperText Makup Language", en francais "Langage hypertext de balisage".
+
 
 Premiere question
 
