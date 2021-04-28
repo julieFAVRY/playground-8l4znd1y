@@ -16,13 +16,26 @@ Il faudra écrire :</br>
 
 `<p> </p>` s'apelle une **Balise**. Il en existe plusieurs autres que nous allons voir par la suite.</br>
 
-EXERCICE N°1 :</br>
+A toi d'essayer !</br>
 
 va sur le site : https://jsfiddle.net/ </br>
 
-
+Essaye de faire un paragraphe qui dit : `Bonjour je m'apelle ...`.
 
 # 1. Les différentes balises.
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
