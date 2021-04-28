@@ -8,12 +8,12 @@ Le HTML n'est pas un langage de programation (comme javascript), c'est un langag
 
 Si on veut écrire :</br>
 
-```html
+`
 Je m'apelle Julie.
-```
+`
 Il faudra écrire :</br>
 
-```<p>Je m'apelle Julie</>```
+```<p>Je m'apelle Julie</p>```
 
 
 # 1. Les différentes balises.
