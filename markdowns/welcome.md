@@ -4,9 +4,9 @@ HTML ca veut dire quoi?
 "HyperText Makup Language", en francais "Langage hypertext de balisage".
 C'est du code utilisé pour **structurer** une page web.</br>
 Nous pourrons trouver dans cette page des paragraphes, des titres, des listes, des images, des vidéos, ...</br>
-Le HTML n'est pas un langage de programation (comme javascript), c'est un langage de **description**. Cette description se fait avec des ```balises```.</br>
+Le HTML n'est pas un langage de programation (comme javascript), c'est un langage de **description**. Cette description se fait avec des ```éléments```.</br>
 
-Si on veut écrire :</br>
+Si on veut écrire l'élèment :</br>
 
 ```Je m'apelle Julie.```</br>
 
@@ -14,22 +14,29 @@ Il faudra écrire :</br>
 
 `<p>Je m'apelle Julie</p>`
 
-`<p> </p>` s'apelle une **Balise**. Il en existe plusieurs autres que nous allons voir par la suite.</br>
+`<p> </p>` s'apelle un **Balise**. Il en existe plusieurs autres que nous allons voir par la suite.</br>
 
-A toi d'essayer !</br>
+## A toi d'essayer !</br>
 
 va sur le site : https://jsfiddle.net/ </br>
 
 Essaye de faire un paragraphe qui dit : `Bonjour je m'apelle ...`.
 
 
-# 1. Les différentes balises.
+# 1. Les différents éléments.
 
-Les balises sont toujours composé de plusieurs choses :</br>
+Un élèment est toujours composé de la même façon :</br>
 
-`<` `nom de la balise` `>` ***Valeur***  `<` `/` `nom de la balise` `>`
+`<` `nom de la balise` `>` ***Valeur***  `<` `/` `nom de la balise` `>`</br>
 
+`<` et `>` : c'est des chevrons.</br>
 
+**ATTENTION**, il faut toujours une balise ouvrante `<balise>` et toujours une balise fermante `</balise>'.</br>
+
+Quelques balises importante à connaître :</br>
+
+`<p></p>` : Délimite un paragraphe. Il peut y avoir autant de paragraphe que vous voulez dans votre page Web. A chaque nouveau paragraphe un retour à la ligne est effectué.</br>
+`<></>`
 
 
 
