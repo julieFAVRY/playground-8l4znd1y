@@ -9,9 +9,16 @@ Le HTML n'est pas un langage de programation (comme javascript), c'est un langag
 Si on veut écrire :</br>
 
 ```Je m'apelle Julie.```</br>
+
 Il faudra écrire :</br>
 
 `<p>Je m'apelle Julie</p>`
+
+`<p> </p>` s'apelle une **Balise**. Il en existe plusieurs autres que nous allons voir par la suite.</br>
+
+EXERCICE N°1 :</br>
+
+va sur le site : https://jsfiddle.net/ </br>
 
 
 
