@@ -22,10 +22,12 @@ va sur le site : https://jsfiddle.net/ </br>
 
 Essaye de faire un paragraphe qui dit : `Bonjour je m'apelle ...`.
 
+
 # 1. Les différentes balises.
 
+Les balises sont toujours composé de plusieurs choses :</br>
 
-
+`<` `nom de la balise` `>` ***Valeur***  `<` `/` `nom de la balise` `>`
 
 
 
