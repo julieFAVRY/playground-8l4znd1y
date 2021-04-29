@@ -60,8 +60,9 @@ Elles s'utilisent pour structuré des textes. Elles sont utilisées, entre autre
 ## Les listes ordonnées.</br>
 Construction :</br>
 
-``` 
+```html
     <ul>
+        <li>Valeur</li>
         <li>Valeur</li>
     </ul>
 ```
