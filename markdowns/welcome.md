@@ -18,7 +18,7 @@ Il faudra écrire :</br>
 
 ## A toi d'essayer !</br>
 
-va sur le site : https://jsfiddle.net/ </br>
+Va sur le site : https://jsfiddle.net/ </br>
 
 Essaye de faire un paragraphe qui dit : `Bonjour je m'apelle ...`.
 
@@ -36,7 +36,15 @@ Un élèment est toujours composé de la même façon :</br>
 Quelques balises importante à connaître :</br>
 
 `<p></p>` : Délimite un paragraphe. Il peut y avoir autant de paragraphe que vous voulez dans votre page Web. A chaque nouveau paragraphe un retour à la ligne est effectué.</br>
-`<></>`
+`<h1></h1>`: délimite les titres. Il en existe six différents (h1, h2, h3, h4, h5,h6).</br>
+
+## A toi d'essayer !</br>
+
+Sur le site : https://jsfiddle.net/ </br>
+
+Ecrit et met avec la bonne balise : </br>
+Je suis un paragraphe.
+Je suis un titre h1.
 
 
 
