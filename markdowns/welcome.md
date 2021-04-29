@@ -71,7 +71,7 @@ L'élement `<ul></ul>` contiens toute la liste.</br>
 L'élément `<li></li>` contiens chaque valeur de la liste.</br>
 Il y à toujours un paragraphe avant afin d'expliquer ce que presente ta liste.</br>
 
-![non_ordonnee](http://julieFAVRY.github.com/liste_non_ordonnee.png)
+![non_ordonnee](http://julieFAVRY.github.com/playground-8l4znd1y/liste_non_ordonnee.png)
 
 ## A toi d'essayer !</br>
 
