@@ -54,10 +54,10 @@ Je suis un titre h6.</br>
 
 # Les listes. </br>
 Il existe plusieurs types de listes.</br>
-Nous allons regarder les listes ordonnées et les listes non ordonnées.</br>
+Nous allons regarder les listes non ordonnées et les listes ordonnées.</br>
 Elles s'utilisent pour structuré des textes. Elles sont utilisées, entre autre dans les menus.</br>
 
-## Les listes ordonnées.</br>
+## Les listes non ordonnées.</br>
 Construction :</br>
 
 ```html
@@ -66,6 +66,15 @@ Construction :</br>
         <li>Valeur</li>
     </ul>
 ```
+L'élement `<ul></ul>` contiens toute la liste.</br>
+L'élément `<li></li>` contiens chaque valeur de la liste.</br>
+
+## A toi d'essayer !</br>
+
+Sur le site : https://jsfiddle.net/ </br>
+
+Réalise une liste ordonnée de tes hobbies préféres.
+
 
 
 
