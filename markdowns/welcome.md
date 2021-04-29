@@ -42,10 +42,12 @@ Quelques balises importante à connaître :</br>
 
 Sur le site : https://jsfiddle.net/ </br>
 
-Ecrit et met avec la bonne balise : </br>
-Je suis un paragraphe.
-Je suis un titre h1.
-
+Ecrit l'élement et met avec la bonne balise : </br>
+</br>
+Je suis un paragraphe.</br>
+Je suis un titre h1.</br>
+Je suis un titre h2.</br>
+Je suis un titre h6.</br>
 
 
 
