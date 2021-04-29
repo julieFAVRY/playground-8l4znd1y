@@ -61,6 +61,7 @@ Elles s'utilisent pour structuré des textes. Elles sont utilisées, entre autre
 Construction :</br>
 
 ```html
+<p>Valeur</p>
     <ul>
         <li>Valeur</li>
         <li>Valeur</li>
@@ -68,15 +69,45 @@ Construction :</br>
 ```
 L'élement `<ul></ul>` contiens toute la liste.</br>
 L'élément `<li></li>` contiens chaque valeur de la liste.</br>
+Il y à toujours un paragraphe avant afin d'expliquer ce que presente ta liste.</br>
 
 ## A toi d'essayer !</br>
 
 Sur le site : https://jsfiddle.net/ </br>
 
-Réalise une liste ordonnée de tes hobbies préféres.
+Réalise une liste non ordonnée de tes hobbies préféres.</br>
 
+## Les listes ordonnées.</br>
+Construction :</br>
 
+```html
+<p>Valeur</p>
+    <ol>
+        <li>Valeur</li>
+        <li>Valeur</li>
+    </ol>
+```
+L'élement `<ol></ol>` contiens toute la liste.</br>
+L'élément `<li></li>` contiens, toujours, chaque valeur de la liste.</br>
+Il y à toujours un paragraphe avant afin d'expliquer ce que presente ta liste.</br>
 
+## A toi d'essayer !</br>
+
+Sur le site : https://jsfiddle.net/ </br>
+
+Réalise une liste ordonnée de tes sports préféres.</br>
+
+## Les Liens externes.</br>
+
+`<a></a>` : Contiens tout le lien.</br>
+Cet élément contiens aussi un `atribut`</br>
+`href=''Lien''` : Contiens le lien externe.</br>
+
+Exemple:</br>
+
+```html
+<p>Ce lien vous envoie vers <a href="http://www.google.fr">Google</a></p>
+```
 
 
 
