@@ -50,15 +50,19 @@ Je suis un titre h1.</br>
 Je suis un titre h2.</br>
 Je suis un titre h6.</br>
 </br>
-</br>
-</br>
-</br>
+
 
 # Les listes. </br>
+Il existe plusieurs types de listes.</br>
+Nous allons regarder les listes ordonnées et les listes non ordonnées.</br>
+Elles s'utilisent pour structuré des textes. Elles sont utilisées, entre autre dans les menus.</br>
 
+## Les listes ordonnées.</br>
+Construction :</br>
 
-## Les 
-`<></>`
+``` <ul>
+        <li>Valeur</li>
+    </ul>```
 
 
 
